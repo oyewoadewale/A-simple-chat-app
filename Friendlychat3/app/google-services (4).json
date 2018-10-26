@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565087338202",
+    "firebase_url": "https://my-friends-d2e76.firebaseio.com",
+    "project_id": "my-friends-d2e76",
+    "storage_bucket": "my-friends-d2e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565087338202:android:a160b7f36dd80017",
+        "android_client_info": {
+          "package_name": "com.example.hp.friendlychat3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565087338202-83ope87n45c56jskplej8rm4o4tsm24m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.friendlychat3",
+            "certificate_hash": "5369d6402767be19675c45d99bde920307199f5d"
+          }
+        },
+        {
+          "client_id": "565087338202-0eokna0j2en0hnfnkmvrs794jl5ajq5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFORHwQeRM3ykADjo134Ez0MPWgVi5MmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565087338202-0eokna0j2en0hnfnkmvrs794jl5ajq5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
